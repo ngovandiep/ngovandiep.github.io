@@ -1,7 +1,7 @@
 class Application extends React.Component {
     render() {
-      return <div><External />
-        <Calendar /></div>;
+      return 
+      <div><External /><Calendar /></div>;
     }
   }
   
